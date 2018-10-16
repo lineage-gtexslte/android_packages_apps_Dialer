@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">Lugares próximos</string>
   <string name="people">Xente</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Busca con Dialpad T9</string>
+  <string name="t9_search_input_locale">Entrada de busca T9</string>
+  <string name="t9_search_input_locale_default">Predeterminado</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">Busca de número de teléfono</string>
   <string name="enable_forward_lookup_title">Busca avanzada</string>
@@ -143,4 +147,6 @@
   <string name="type_missed_vowifi">Chamada de voz Wi-Fi perdida</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">Chamada de vídeo Wi-Fi perdida</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">As buscas poden enviar consultas a través dun protocolo seguro (https) a sitios web remotos para recompilar información. A consulta pode incluír o número de teléfono da outra parte ou a consulta de busca</string>
 </resources>

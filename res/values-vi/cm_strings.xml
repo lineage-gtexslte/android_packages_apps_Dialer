@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">Địa điểm gần kề</string>
   <string name="people">Mọi người</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Bàn phím tìm kiếm T9</string>
+  <string name="t9_search_input_locale">Ô tìm kiếm T9</string>
+  <string name="t9_search_input_locale_default">Mặc định</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">Tra cứu số điện thoại</string>
   <string name="enable_forward_lookup_title">Tra cứu xuôi</string>
@@ -143,4 +147,6 @@
   <string name="type_missed_vowifi">Cuộc gọi thoại WiFi bị nhỡ</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">Cuộc gọi video WiFi bị nhỡ</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Tra cứu có thể gửi truy vấn qua giao thức an toàn (https) tới các trang web từ xa để thu thập thông tin. Truy vấn có thể bao gồm số điện thoại của bên kia hoặc truy vấn tìm kiếm</string>
 </resources>

@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">附近地点</string>
   <string name="people">人</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">拨号盘 T9 搜索</string>
+  <string name="t9_search_input_locale">T9 搜索输入</string>
+  <string name="t9_search_input_locale_default">默认</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">号码查询</string>
   <string name="enable_forward_lookup_title">正向查询</string>
@@ -143,4 +147,6 @@
   <string name="type_missed_vowifi">未接 WiFi 语音来电</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">未接 WiFi 视频来电</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">查询将会发送基于安全协议（https）的请求到远程网站以获取信息。此查询可能会包含第三方的电话号码或搜索查询。</string>
 </resources>

@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">Nabijgelegen plaatsen</string>
   <string name="people">Mensen</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Toetsenblok T9-zoeken</string>
+  <string name="t9_search_input_locale">T9-zoeken</string>
+  <string name="t9_search_input_locale_default">Standaard</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">Telefoonnummer zoeken</string>
   <string name="enable_forward_lookup_title">Plaatsen zoeken</string>
@@ -143,4 +147,5 @@
   <string name="type_missed_vowifi">Gemiste spraakoproep via wifi</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">Gemiste video-oproep via wifi</string>
+  <!-- Disclaimer -->
 </resources>

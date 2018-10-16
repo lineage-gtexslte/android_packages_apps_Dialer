@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">מקומות סמוכים</string>
   <string name="people">אנשים</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">חיפוש בעזרת לוח מקשי אותיות T9</string>
+  <string name="t9_search_input_locale">שפת הקלט של חיפוש T9</string>
+  <string name="t9_search_input_locale_default">ברירת מחדל</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">חיפוש מספר טלפון</string>
   <string name="enable_forward_lookup_title">חיפוש מקדים</string>
@@ -148,4 +152,6 @@
   <string name="type_missed_vowifi">שיחה Wi-Fi קולית לא נענתה</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">שיחת וידאו Wi-Fi לא נענתה</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">החיפוש ישלח מידע בפרוטוקול מוצפן (https) לשרת מרוחק לקבלת מידע. השאילתות יכילו את מספר הפלאפון ו\או שאילתות החיפוש</string>
 </resources>

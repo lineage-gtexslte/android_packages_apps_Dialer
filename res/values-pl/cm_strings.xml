@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">Miejsca w pobliżu</string>
   <string name="people">Ludzie</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Wyszukiwanie kontaktów z T9</string>
+  <string name="t9_search_input_locale">Wyszukiwanie T9</string>
+  <string name="t9_search_input_locale_default">Domyślny</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">Wyszukiwanie numeru telefonu</string>
   <string name="enable_forward_lookup_title">Wyszukiwanie do przodu</string>
@@ -143,4 +147,6 @@
   <string name="type_missed_vowifi">Nieodebrane połączenie głosowe Wi-Fi</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">Nieodebrane połączenie wideo Wi-Fi</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Wyszukiwania mogą wysyłać zapytania za pomocą protokołu bezpiecznego (https) do zdalnych stron internetowych w celu zbierania informacji. Zapytanie może zawierać numer telefonu lub zapytania wyszukiwania rozmówcy</string>
 </resources>

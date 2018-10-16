@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">Miesta v blízkosti</string>
   <string name="people">Ľudia</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Vyhľadávanie T9 v číselníku</string>
+  <string name="t9_search_input_locale">Vstup vyhľadávania T9</string>
+  <string name="t9_search_input_locale_default">Predvolený</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">Vyhľadávanie telefónneho čísla</string>
   <string name="enable_forward_lookup_title">Predbežné vyhľadávanie</string>
@@ -143,4 +147,6 @@
   <string name="type_missed_vowifi">Zmeškaný WiFi hlasový hovor</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">Zmeškaný WiFi video hovor</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Vyhľadávanie môže posielať informácie prostredníctvom zabezpečeného protokolu (https) na vzdialené webové stránky. Dopyt môže obsahovať telefónne číslo druhej strany alebo vyhľadávací dopyt</string>
 </resources>

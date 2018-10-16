@@ -25,6 +25,10 @@
   <!-- Forward lookup -->
   <string name="nearby_places">Orte in der Nähe</string>
   <string name="people">Personen</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Dialpad T9-Suche</string>
+  <string name="t9_search_input_locale">T9-Eingabesprache</string>
+  <string name="t9_search_input_locale_default">Standard</string>
   <!-- Number lookup -->
   <string name="lookup_settings_label">Telefonnummernsuche</string>
   <string name="enable_forward_lookup_title">Vorwärtssuche</string>
@@ -143,4 +147,6 @@
   <string name="type_missed_vowifi">Verpasster WLAN-Sprachanruf</string>
   <!-- Title for missed wifi video call in call details screen [CHAR LIMIT=60] -->
   <string name="type_missed_video_wifi">Verpasster WLAN-Videoanruf</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Suchen können Abfragen an Remote-Websites über ein sicheres Protokoll (https) senden, um Informationen zu sammeln. Die Abfrage kann die Telefonnummer des anderen Teilnehmers oder die Suchanfrage enthalten</string>
 </resources>
